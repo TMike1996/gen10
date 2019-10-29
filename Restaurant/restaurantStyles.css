@@ -1,0 +1,17 @@
+h1
+  		{
+  			font-family: 'Embedded', sans-serif;
+  			font: hosted;
+  		}
+header, footer, body
+{
+	text-align: center;
+	
+}
+
+/*{
+	text-align: center;
+	padding: 8px;
+	line-width:200%;
+	
+}*/
